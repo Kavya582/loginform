@@ -1,0 +1,44 @@
+body{
+    background-color: azure;
+    text-align: center;
+    padding-top:150px;
+   
+}
+
+#container div{
+    margin:25px; 
+   
+}
+
+#user{
+    font-size: 18px;
+
+}
+
+#username{
+    width:200px;
+    height:30px;
+    border-radius: 10px;
+}
+
+#password1{
+    font-size: 18px;
+}
+
+#password{
+    width:200px;
+    height:30px;
+    border-radius: 10px;
+    font-weight: 500;
+}
+
+#btn{
+    font-size: 17px;
+    font-weight: 600;
+    background:black;
+    color:white;
+    height:40px;
+    width:130px;
+    border-radius: 8px;
+}
+
